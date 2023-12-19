@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-checkpoint",
+  "version": "1.0.0",
+  "description": "working with mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Obaze",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.3",
+    "validator": "^13.11.0"
+  }
+}
